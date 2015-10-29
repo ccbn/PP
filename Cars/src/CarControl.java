@@ -8,7 +8,7 @@
 import java.awt.Color;
 
 class Barrier {
-	
+	lol;
 	int barrierCount = 0;
 	Semaphore g = new Semaphore(0);
 	
